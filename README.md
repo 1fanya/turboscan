@@ -1,26 +1,6 @@
 # 🚀 TurboScan --- Ultra-Fast Directory Scanner (3× Faster Than ffuf)
 
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Go-1.21+-00ADD8?logo=go&logoColor=white" />`{=html}
-`<img src="https://img.shields.io/badge/platform-linux%20|%20windows%20|%20macOS-lightgrey" />`{=html}
-`<img src="https://img.shields.io/badge/status-active-brightgreen" />`{=html}
-`<img src="https://img.shields.io/badge/security-pentesting-orange" />`{=html}
-`<img src="https://img.shields.io/badge/license-MIT-yellow" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<b>`{=html}TurboScan`</b>`{=html} is a high-performance directory
-scanner written in Go, delivering up to `<b>`{=html}3× faster
-speeds`</b>`{=html} than ffuf and `<b>`{=html}2.3× faster`</b>`{=html}
-than Gobuster --- with superior stability, concurrency and accuracy.
-```{=html}
-</p>
-```
+<p align="center"> <img src="https://img.shields.io/badge/Go-1.21%2B-00ADD8?logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macOS-lightgrey" /> <img src="https://img.shields.io/badge/status-active-brightgreen" /> <img src="https://img.shields.io/badge/security-pentesting-orange" /> <img src="https://img.shields.io/badge/license-MIT-yellow" /> </p> <p align="center"> <b>TurboScan</b> is a high-performance directory scanner written in Go, delivering up to <b>3× faster speeds</b> than ffuf and <b>2.3× faster</b> than Gobuster — with superior stability, concurrency and accuracy. </p>
 
 ------------------------------------------------------------------------
 
